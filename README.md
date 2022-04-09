@@ -113,3 +113,6 @@ This command is used to clear the git bash window and bring the command line on 
 | git diff | to look at current changes in your working copy, past changes in commits, or even to compare branches |
 
 
+## Youtube Link(How to write Git's basic Command):
+
+https://www.youtube.com/watch?v=cYl9GyS6a2o
