@@ -1,7 +1,7 @@
 
 # Basic Git Commands
 
-A brief description of what this project does and who it's for
+Hello Everyone!👋🏻 I am Soumodip Ghosh (21BEC0232) from ECE in VIT.
 
 
 ## Commands with Explanation:
